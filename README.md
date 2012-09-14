@@ -1,4 +1,9 @@
 escape
 ======
 
-library for escape the variables
+---
+安装
+
+    npm install escape
+    
+---
